@@ -42,7 +42,7 @@ export default {
   data() 
   {
     return {
-    reponame: "/6110110113_Ass3_Gridsome"}
+    reponame: "/6110110113_240-420_Gridsome"}
   }
 };
 </script>
